@@ -2,7 +2,7 @@ application: simplewaf
 derived_file_type:
 - python_precompiled
 version: develop
-runtime: python
+runtime: python27
 api_version: 1
 
 #default_expiration: "1h"
